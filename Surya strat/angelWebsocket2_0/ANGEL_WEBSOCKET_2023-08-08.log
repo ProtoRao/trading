@@ -1,0 +1,121 @@
+2023-08-08 09:32:20,382 - INFO - ['BO', 'NRML', 'CO', 'CNC', 'MIS', 'MARGIN']
+2023-08-08 09:32:20,962 - INFO - Websocket connected
+2023-08-08 09:32:20,964 - INFO - on open
+2023-08-08 09:32:21,428 - INFO - -----------Subscribe--------
+2023-08-08 09:32:58,924 - INFO - ['BO', 'NRML', 'CO', 'CNC', 'MIS', 'MARGIN']
+2023-08-08 09:32:59,088 - INFO - Websocket connected
+2023-08-08 09:32:59,090 - INFO - on open
+2023-08-08 09:33:29,966 - INFO - Websocket connected
+2023-08-08 09:33:29,968 - INFO - on open
+2023-08-08 09:34:13,632 - INFO - ['BO', 'NRML', 'CO', 'CNC', 'MIS', 'MARGIN']
+2023-08-08 09:34:13,818 - INFO - Websocket connected
+2023-08-08 09:34:13,820 - INFO - on open
+2023-08-08 09:34:14,651 - INFO - -----------Subscribe--------
+2023-08-08 09:35:54,774 - ERROR - error from callback <bound method SmartWebSocketV2._on_close of <SmartApi.smartWebSocketV2.SmartWebSocketV2 object at 0x0000019E443CFE80>>: SmartWebSocketV2._on_close() takes 2 positional arguments but 4 were given
+2023-08-08 09:35:54,775 - INFO - Connection closed
+2023-08-08 09:35:55,784 - INFO - -----------Exit--------
+2023-08-08 09:37:24,715 - INFO - ['BO', 'NRML', 'CO', 'CNC', 'MIS', 'MARGIN']
+2023-08-08 09:37:25,722 - INFO - -----------Subscribe--------
+2023-08-08 09:38:19,617 - INFO - ['BO', 'NRML', 'CO', 'CNC', 'MIS', 'MARGIN']
+2023-08-08 09:38:19,753 - INFO - Websocket connected
+2023-08-08 09:38:19,755 - INFO - on open
+2023-08-08 09:38:20,628 - INFO - -----------Subscribe--------
+2023-08-08 09:38:52,221 - INFO - ['BO', 'NRML', 'CO', 'CNC', 'MIS', 'MARGIN']
+2023-08-08 09:38:52,466 - INFO - Websocket connected
+2023-08-08 09:38:52,468 - INFO - on open
+2023-08-08 09:38:53,232 - INFO - -----------Subscribe--------
+2023-08-08 09:39:25,648 - INFO - ['BO', 'NRML', 'CO', 'CNC', 'MIS', 'MARGIN']
+2023-08-08 09:39:25,840 - INFO - Websocket connected
+2023-08-08 09:39:25,842 - INFO - on open
+2023-08-08 09:39:26,660 - INFO - -----------Subscribe--------
+2023-08-08 09:41:17,072 - INFO - ['BO', 'NRML', 'CO', 'CNC', 'MIS', 'MARGIN']
+2023-08-08 09:41:17,313 - INFO - Websocket connected
+2023-08-08 09:41:17,315 - INFO - on open
+2023-08-08 09:41:18,090 - INFO - -----------Subscribe--------
+2023-08-08 09:44:16,131 - INFO - ['BO', 'NRML', 'CO', 'CNC', 'MIS', 'MARGIN']
+2023-08-08 09:44:16,412 - INFO - Websocket connected
+2023-08-08 09:44:16,414 - INFO - on open
+2023-08-08 09:44:17,141 - INFO - -----------Subscribe--------
+2023-08-08 09:46:46,683 - INFO - ['BO', 'NRML', 'CO', 'CNC', 'MIS', 'MARGIN']
+2023-08-08 09:46:46,835 - INFO - Websocket connected
+2023-08-08 09:46:46,837 - INFO - on open
+2023-08-08 09:46:47,691 - INFO - -----------Subscribe--------
+2023-08-08 09:55:42,765 - INFO - ['BO', 'NRML', 'CO', 'CNC', 'MIS', 'MARGIN']
+2023-08-08 09:55:43,018 - INFO - Websocket connected
+2023-08-08 09:55:43,019 - INFO - on open
+2023-08-08 09:55:43,784 - INFO - -----------Subscribe--------
+2023-08-08 09:59:13,647 - INFO - ['BO', 'NRML', 'CO', 'CNC', 'MIS', 'MARGIN']
+2023-08-08 09:59:14,004 - INFO - Websocket connected
+2023-08-08 09:59:14,006 - INFO - on open
+2023-08-08 09:59:14,663 - INFO - -----------Subscribe--------
+2023-08-08 10:01:57,663 - INFO - ['BO', 'NRML', 'CO', 'CNC', 'MIS', 'MARGIN']
+2023-08-08 10:01:58,679 - INFO - -----------Subscribe--------
+2023-08-08 10:02:14,973 - INFO - ['BO', 'NRML', 'CO', 'CNC', 'MIS', 'MARGIN']
+2023-08-08 10:02:15,166 - INFO - Websocket connected
+2023-08-08 10:02:15,167 - INFO - on open
+2023-08-08 10:02:15,978 - INFO - -----------Subscribe--------
+2023-08-08 10:42:08,060 - INFO - ['BO', 'NRML', 'CO', 'CNC', 'MIS', 'MARGIN']
+2023-08-08 10:42:08,518 - INFO - Websocket connected
+2023-08-08 10:42:08,520 - INFO - on open
+2023-08-08 10:42:24,431 - INFO - ['BO', 'NRML', 'CO', 'CNC', 'MIS', 'MARGIN']
+2023-08-08 10:42:24,645 - INFO - Websocket connected
+2023-08-08 10:42:24,647 - INFO - on open
+2023-08-08 10:45:47,114 - INFO - ['BO', 'NRML', 'CO', 'CNC', 'MIS', 'MARGIN']
+2023-08-08 10:45:47,314 - INFO - Websocket connected
+2023-08-08 10:45:47,316 - INFO - on open
+2023-08-08 10:51:14,128 - INFO - ['BO', 'NRML', 'CO', 'CNC', 'MIS', 'MARGIN']
+2023-08-08 10:51:14,363 - INFO - Websocket connected
+2023-08-08 10:51:14,365 - INFO - on open
+2023-08-08 11:28:58,317 - INFO - ['BO', 'NRML', 'CO', 'CNC', 'MIS', 'MARGIN']
+2023-08-08 11:28:58,635 - INFO - Websocket connected
+2023-08-08 11:28:58,637 - INFO - on open
+2023-08-08 11:29:25,320 - INFO - ['BO', 'NRML', 'CO', 'CNC', 'MIS', 'MARGIN']
+2023-08-08 11:29:25,507 - INFO - Websocket connected
+2023-08-08 11:29:25,508 - INFO - on open
+2023-08-08 11:30:02,495 - INFO - ['BO', 'NRML', 'CO', 'CNC', 'MIS', 'MARGIN']
+2023-08-08 11:30:02,651 - INFO - Websocket connected
+2023-08-08 11:30:02,653 - INFO - on open
+2023-08-08 11:43:57,867 - INFO - ['BO', 'NRML', 'CO', 'CNC', 'MIS', 'MARGIN']
+2023-08-08 11:43:59,214 - INFO - Websocket connected
+2023-08-08 11:43:59,216 - INFO - on open
+2023-08-08 12:13:53,852 - INFO - ['BO', 'NRML', 'CO', 'CNC', 'MIS', 'MARGIN']
+2023-08-08 12:13:54,169 - INFO - Websocket connected
+2023-08-08 12:13:54,171 - INFO - on open
+2023-08-08 12:17:38,938 - INFO - ['BO', 'NRML', 'CO', 'CNC', 'MIS', 'MARGIN']
+2023-08-08 12:17:39,176 - INFO - Websocket connected
+2023-08-08 12:17:39,178 - INFO - on open
+2023-08-08 12:44:23,622 - INFO - ['BO', 'NRML', 'CO', 'CNC', 'MIS', 'MARGIN']
+2023-08-08 12:44:23,864 - INFO - Websocket connected
+2023-08-08 12:44:23,866 - INFO - on open
+2023-08-08 12:48:07,982 - INFO - ['BO', 'NRML', 'CO', 'CNC', 'MIS', 'MARGIN']
+2023-08-08 12:48:08,219 - INFO - Websocket connected
+2023-08-08 12:48:08,221 - INFO - on open
+2023-08-08 13:06:41,439 - INFO - ['BO', 'NRML', 'CO', 'CNC', 'MIS', 'MARGIN']
+2023-08-08 13:06:41,687 - INFO - Websocket connected
+2023-08-08 13:06:41,689 - INFO - on open
+2023-08-08 13:07:47,288 - INFO - ['BO', 'NRML', 'CO', 'CNC', 'MIS', 'MARGIN']
+2023-08-08 13:07:47,736 - INFO - Websocket connected
+2023-08-08 13:07:47,738 - INFO - on open
+2023-08-08 13:09:17,505 - INFO - ['BO', 'NRML', 'CO', 'CNC', 'MIS', 'MARGIN']
+2023-08-08 13:09:17,672 - INFO - Websocket connected
+2023-08-08 13:09:17,674 - INFO - on open
+2023-08-08 13:09:56,468 - INFO - ['BO', 'NRML', 'CO', 'CNC', 'MIS', 'MARGIN']
+2023-08-08 13:09:56,680 - INFO - Websocket connected
+2023-08-08 13:09:56,682 - INFO - on open
+2023-08-08 13:10:57,627 - INFO - Websocket connected
+2023-08-08 13:10:57,630 - INFO - on open
+2023-08-08 13:11:44,980 - INFO - ['BO', 'NRML', 'CO', 'CNC', 'MIS', 'MARGIN']
+2023-08-08 13:11:45,134 - INFO - Websocket connected
+2023-08-08 13:11:45,135 - INFO - on open
+2023-08-08 13:12:43,265 - INFO - ['BO', 'NRML', 'CO', 'CNC', 'MIS', 'MARGIN']
+2023-08-08 13:12:43,470 - INFO - Websocket connected
+2023-08-08 13:12:43,472 - INFO - on open
+2023-08-08 13:13:28,965 - INFO - ['BO', 'NRML', 'CO', 'CNC', 'MIS', 'MARGIN']
+2023-08-08 13:13:29,123 - INFO - Websocket connected
+2023-08-08 13:13:29,125 - INFO - on open
+2023-08-08 13:14:04,849 - INFO - ['BO', 'NRML', 'CO', 'CNC', 'MIS', 'MARGIN']
+2023-08-08 13:14:05,005 - INFO - Websocket connected
+2023-08-08 13:14:05,007 - INFO - on open
+2023-08-08 13:15:01,339 - INFO - ['BO', 'NRML', 'CO', 'CNC', 'MIS', 'MARGIN']
+2023-08-08 13:15:01,580 - INFO - Websocket connected
+2023-08-08 13:15:01,582 - INFO - on open
