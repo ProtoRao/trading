@@ -1,4 +1,4 @@
 # trading
 Python code for trading stocks
 
-Banknifty data : https://drive.google.com/drive/folders/1ZNvruNsu4fK9GeF9WTVBBM7rBN3vSFbE?usp=sharing
+New Nifty Data: https://drive.google.com/file/d/1ZK_125J_yXGUD1rx18NDFiJbe79uzpdP/view?usp=sharing
